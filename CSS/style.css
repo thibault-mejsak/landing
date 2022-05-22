@@ -1,0 +1,17 @@
+@import url("https://fonts.googleaplis.com/css2?family=Karla:wght@200&family=Lora")
+
+@import url("Components/containers.css")
+@import url("Components/banner.css")
+@import url("Components/button.css")
+@import url("Components/cards.css")
+@import url("Components/avatar.css")
+body{ 
+	font-family: 'Karla', sans serif;
+}	
+
+h1, h2, h3{
+	font-family: 'Laura', serif; 
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 40px;
+}
